@@ -1,6 +1,6 @@
 # SystemDevelopmentMethod
 DDDとICONIXとアジャイルを複合したシステム開発構想
-![開発フロー](./SDM.drawio.svg, "開発フロー")
+![開発フロー](./SDM.drawio.svg)
 ## なぜこの開発手法がいいと思っているか
 ### ユースケースを使うメリット
 ユースケースは一般的なPBIよりは大きい
